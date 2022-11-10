@@ -1,2 +1,1 @@
-# employee-promotion-system
-An exercise for CSci 141 - Intelligent Systems
+# employee-promotion-system by iamjuney
