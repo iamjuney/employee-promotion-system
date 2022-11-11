@@ -30,7 +30,7 @@ export default class FuzzySet {
 		this.loyalty[4].Set('Excellent', 4, 80, 0, 100, 1, 100, 1, 100, 1);
 
 		this.classification[0].Set('Not Eligible', 0, 0, 1, 40, 1, 40, 1, 70, 0);
-		this.classification[1].Set('Eligible', 1, 60, 0, 75, 1, 75, 1, 100, 1);
+		this.classification[1].Set('Eligible', 1, 60, 0, 80, 1, 80, 1, 100, 1);
 
 		// fuzzy rules 0 = Low, 1 = Medium, 2 = High
 		this.matched_features = [
