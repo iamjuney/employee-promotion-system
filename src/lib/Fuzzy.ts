@@ -32,7 +32,6 @@ export default class FuzzySet {
 		this.classification[0].Set('Not Eligible', 0, 0, 1, 40, 1, 40, 1, 70, 0);
 		this.classification[1].Set('Eligible', 1, 60, 0, 80, 1, 80, 1, 100, 1);
 
-		// fuzzy rules 0 = Low, 1 = Medium, 2 = High
 		this.matched_features = [
 			[0, 0, 0, 0, 0],
 			[0, 0, 0, 0, 1],
